@@ -1,0 +1,12 @@
+{
+  "name": "Asincronismo_con_JavaScript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
