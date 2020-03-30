@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "callback": "node src/callback/index.js",
-    "callback:multi": "node ./src/callback/challenges.js"
+    "callback:multi": "node ./src/callback/challenges.js",
+    "promise": "node src/promise/index.js",
+    "promise:challenge": "node src/promise/challenge.js"
   },
   "keywords": [],
   "author": "",
